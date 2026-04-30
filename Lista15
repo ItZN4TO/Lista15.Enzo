@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilos.css">
+    <title>Lista 15</title>
+</head>
+<body>
+    <ul>
+        <li class="Facebook"><a href="">Facebook</a></li>
+        <li class="Instagram"><a href="">Instagram</a></li>
+        <li class="GoogleMaps"><a href="">Google Maps</a></li>
+        <li class="Twitter"><a href="">Twitter</a></li>
+        <li class="Youtube"><a href="">Youtube</a></li>
+    </ul>
+    
+    <br>
+    <p class="direita">A fonte utilizada no texto do menu é a OSWALD</p>
+</body>
+</html>
